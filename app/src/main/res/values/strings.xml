@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">prototype</string>
+    <string name="label_firstname">Prénom</string>
+    <string name="add">Ajouter</string>
+    <string name="counter">Compteur: %1$d</string>
+    <string name="total_persons">Total prénoms: %1$d</string>
 </resources>
